@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>세계지도</title>
 <script src="${pageContext.request.contextPath}/js/jquery-3.7.1.js"></script>
 <script src="//cdn.amcharts.com/lib/5/index.js"></script>
 <script src="//cdn.amcharts.com/lib/5/map.js"></script>
